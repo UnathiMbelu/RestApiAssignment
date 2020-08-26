@@ -1,0 +1,8 @@
+2020-08-26 14:27:10,089 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestApiAssignment:RestApiAssignment:0.0.1-SNAPSHOT @ C:\Users\unath\Desktop\New folder\RestApiAssignment\pom.xml.
+2020-08-26 14:27:10,770 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestApiAssignment/src/main/java
+2020-08-26 14:27:10,770 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestApiAssignment/src/test/java
+2020-08-26 14:27:10,851 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-08-26 14:27:12,361 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 14:27:12,362 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\unath\Desktop\New folder\RestApiAssignment\src\main\resources
+2020-08-26 14:27:12,364 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 14:27:12,365 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\unath\Desktop\New folder\RestApiAssignment\src\test\resources

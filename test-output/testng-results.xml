@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6300" started-at="2020-08-07T10:32:52Z" finished-at="2020-08-07T10:32:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6300" started-at="2020-08-07T10:32:52Z" finished-at="2020-08-07T10:32:59Z">
+      <class name="RestApiAssignment.RestApiAssignment.Doggie">
+        <test-method status="PASS" signature="running_Api()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="running_Api" duration-ms="448" started-at="2020-08-07T12:32:52Z" finished-at="2020-08-07T12:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- running_Api -->
+        <test-method status="PASS" signature="sending_get_http_request()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="sending_get_http_request" duration-ms="3349" started-at="2020-08-07T12:32:53Z" finished-at="2020-08-07T12:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sending_get_http_request -->
+        <test-method status="PASS" signature="sending_get_http_request_all()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="sending_get_http_request_all" duration-ms="981" started-at="2020-08-07T12:32:56Z" finished-at="2020-08-07T12:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sending_get_http_request_all -->
+        <test-method status="PASS" signature="sending_get_http_request_bulldog()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="sending_get_http_request_bulldog" duration-ms="1000" started-at="2020-08-07T12:32:57Z" finished-at="2020-08-07T12:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sending_get_http_request_bulldog -->
+        <test-method status="PASS" signature="success_message_must_be_retured()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="success_message_must_be_retured" duration-ms="475" started-at="2020-08-07T12:32:58Z" finished-at="2020-08-07T12:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- success_message_must_be_retured -->
+        <test-method status="PASS" signature="success_message_must_be_retured_with_status()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="success_message_must_be_retured_with_status" duration-ms="13" started-at="2020-08-07T12:32:59Z" finished-at="2020-08-07T12:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- success_message_must_be_retured_with_status -->
+        <test-method status="PASS" signature="success_message_must_be_retured_with_status_code()[pri:0, instance:RestApiAssignment.RestApiAssignment.Doggie@4ec6a292]" name="success_message_must_be_retured_with_status_code" duration-ms="16" started-at="2020-08-07T12:32:59Z" finished-at="2020-08-07T12:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- success_message_must_be_retured_with_status_code -->
+      </class> <!-- RestApiAssignment.RestApiAssignment.Doggie -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
